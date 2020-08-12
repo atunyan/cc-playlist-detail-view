@@ -25,8 +25,4 @@ Application is written in Swift. MVVM+C architecture pattern was used.
 Coodrinator responsible for app navigation, for that `playlistId` being injected to help easly connect PlaylistDetail screen with previous one - Playlists.
 
 UI components in Storyboard are configured to have dynamic height. However header label is limited to 3 lines.
- 
-
-### Testing
-Due to time constraints and not required no tests. However code is written with testability in mind.
 
